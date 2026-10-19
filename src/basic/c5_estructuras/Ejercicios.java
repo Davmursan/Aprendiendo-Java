@@ -15,6 +15,8 @@ public class Ejercicios {
         String[] names = {"david", "Ana", "Mama", "Papa", "sister"};
         System.out.println(names.length);
 
+       
+
         // 2. Modifica uno delos valores del Array e imprime el valor del índice antes después de modificarlo
         System.out.println(names[4]);
         names[4] = "Sonia";
